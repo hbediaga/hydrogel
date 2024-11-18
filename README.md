@@ -96,7 +96,3 @@ The best model developed in this project leverages **perturbation theory-based o
 If you use this repository in your research, please cite the corresponding publication. Supplementary materials can be found in `S1.xlsx` and `S2.pdf`.
 
 ---
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and share the code and data with proper attribution.
