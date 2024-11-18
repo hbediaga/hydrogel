@@ -34,11 +34,11 @@ The best model developed in this project leverages **perturbation theory-based o
 - **`1_2_MA_dragon.py`**  
   Similar to `1_1_MA_alva.py`, but for descriptors calculated using the Dragon software.
 
+- **`3_dataprep.py`**  
+  Prepares new datasets for training models. Creates the datasets with the columns and structure needed to train the models.
+
 - **`3_Models.py`**  
   Code for training and comparing different models.
-
-- **`3_dataprep.py`**  
-  Prepares new datasets for prediction by trained models.
 
 ### Pre-trained Models
 - **`DTC_best.joblib`**  
